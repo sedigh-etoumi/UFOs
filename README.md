@@ -25,6 +25,8 @@ Overview:
   
   Summary: 
     In general the new code got big improvement but still needs some enhansment as the search filters now case sensitive so I have to be careful about the key workds       should all of them lowercases letters outherwise, we will not get any results, and also it shuld be the complete keyword.
+    ![uppercase_filter](https://user-images.githubusercontent.com/107521854/189821582-7bbc9ec4-1af1-474f-9b9f-5555912687a7.png)
+
   
 
 
