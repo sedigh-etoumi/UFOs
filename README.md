@@ -20,6 +20,10 @@ Overview:
   
   Shape Filter:
   ![shape_filter](https://user-images.githubusercontent.com/107521854/189818567-7c042272-14d9-4779-9644-4a6b9d18ecf4.png)
+  
+  Multiple filters Date State filter:
+  ![date_state _filter](https://user-images.githubusercontent.com/107521854/189818857-88098e36-d076-493a-a76e-a3e9320b02eb.png)
+
 
   
   
