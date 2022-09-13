@@ -7,6 +7,8 @@ Overview:
   Results and Analysis:
   
   after we added all these filters we got we got more convenience as we see in the following screenshots, now we can get more specific result with multiple keys filters   that wasn't able in the original code. 
+  
+  City Filter:
   ![](https://github.com/sedigh-etoumi/UFOs/blob/main/static/images/city_filter.png)
   
 
